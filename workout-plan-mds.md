@@ -2,9 +2,9 @@
 
 > :exclamation:Annotation: the item marked with `(*)` is unclear for English translation.
 >
-> :desktop_computer: Version: v0.0.1-beta
+> :desktop_computer: Version: v0.0.1
 >
-> :star: Release status: Under translation, pre-release
+> :star: Release status: released
 
 [TOC]
 
