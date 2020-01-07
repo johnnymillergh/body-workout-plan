@@ -15,7 +15,7 @@
 
 Here is the highlights of **Body Workout Plan**:
 
-1. [Workout Plan (MDS)](Workout Plan (MDS).md)
+1. [Workout Plan (MDS)](workout-plan-mds.md)
 
 ## Maintainers
 
