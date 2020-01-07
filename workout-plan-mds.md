@@ -8,6 +8,8 @@
 
 [TOC]
 
+
+
 ## :one: Monday: BACK
 
 1. Trapezius (upper back part), deltoid (clavicular, acromial, spinal parts) warm up
