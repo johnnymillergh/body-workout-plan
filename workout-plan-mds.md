@@ -2,9 +2,9 @@
 
 > :exclamation:Annotation: the item marked with `(*)` is unclear for English translation.
 >
-> :desktop_computer: Version: v0.0.1
+> :desktop_computer: Version: v0.0.2-beta
 >
-> :star: Release status: released
+> :star: Release status: under construction
 
 [TOC]
 
@@ -16,8 +16,8 @@
 2. Self-weight pull up. `4 sets x 6 reps`
 3. Neck front pulldown. `4 sets x 12 reps`
 4. Neck rear pulldown. `4 sets x 12 reps`
-5. `(*)` dragon door frame straight rod straight arm pull. `4 sets x 12 reps`
-6. `(*)` dragon door frame V word put the hand sitting posture rowing. `4 sets x 12 reps`
+5. Cable crossover, T-bar, standing straight-arm pulldown. `4 sets x 12 reps` [Demo](https://www.bodybuilding.com/exercises/straight-arm-pulldown)
+6. Cable crossover, V-bar, seated rows `4 sets x 12 reps` [Demo](https://www.bodybuilding.com/exercises/seated-cable-rows)
 7. Barbell bent-over row. `4 sets x 12 reps`
 8. Static back stretch (cool down)
 
@@ -30,7 +30,7 @@
 
 4. Dumbbell incline bench press. `4 sets x 12 reps`
 
-5. `(*)` Single arm incline push. `4 sets x 12 reps`
+5. Single arm incline push. `4 sets x 12 reps`
 6. Close-grip pushup. `4 sets x 12 reps`
 
 7. Static chest stretch (cool down)
@@ -54,13 +54,21 @@
 ## :four: Thursday: ARMS & ABS
 
 1. Barbell close-grip bench press. `6 sets x 12 reps`
-2. `(*)` Lean dumb bell arm qued. `4 sets x 12 reps`
-3. `(*)` Dragon door frame straight rod arm flex. `4 sets x 12 reps`
+
+2. Standing Bent-Over Two-Arm Dumbbell Triceps Extension. `4 sets x 12 reps` [Demo](https://www.bodybuilding.com/exercises/standing-bent-over-two-arm-dumbbell-triceps-extension)
+
+3. Cable, T-bar, triceps pushdown. `4 sets x 12 reps` [Demo](https://www.bodybuilding.com/exercises/triceps-pushdown)
+
 4. Stating barbell biceps curl. `4 sets x 12 reps`
+
 5. Stating dumbbell biceps curl. `4 sets x 12 reps`
-6. `(*)` Stating dumbbell biceps curl (90 degrees). `4 sets x 12 reps`
+
+6. Stating dumbbell biceps hammer curl (90 degrees). `4 sets x 12 reps` [Demo](https://www.bodybuilding.com/exercises/hammer-curls)
+
 7. Touch knee crunch. `4 sets x 20 reps`
+
 8. Pulse up (laying down and lifting legs). `4 sets x 20 reps`
+
 9. Static arms stretch (cool down)
 
 ## :five: Friday : LEGS & ABS
